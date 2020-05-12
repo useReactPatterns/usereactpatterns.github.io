@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/blog/provider-pattern/</loc>
+    <lastmod>2020-05-11T18:23:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/blog/hello-world/</loc>
+    <lastmod>2020-05-11T16:50:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/newsletter/</loc>
+    <lastmod>2020-05-11T18:32:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/</loc>
+    <lastmod>2020-05-11T18:32:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/blog/</loc>
+    <lastmod>2020-05-11T18:23:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/license/</loc>
+    <lastmod>2020-05-11T17:31:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/about/</loc>
+    <lastmod>2020-05-11T17:16:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/tags/interesting/</loc>
+    <lastmod>2020-05-11T16:50:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/tags/</loc>
+    <lastmod>2020-05-11T16:50:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.usereactpatterns.com/categories/</loc>
+  </url>
+  
+</urlset>

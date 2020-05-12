@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>useReactPatterns</title>
+    <link>https://www.usereactpatterns.com/</link>
+    <description>Recent content on useReactPatterns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 11 May 2020 18:32:27 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.usereactpatterns.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Provider Pattern</title>
+      <link>https://www.usereactpatterns.com/blog/provider-pattern/</link>
+      <pubDate>Mon, 11 May 2020 18:23:05 -0400</pubDate>
+      
+      <guid>https://www.usereactpatterns.com/blog/provider-pattern/</guid>
+      <description>Stuff about provider goes here.</description>
+    </item>
+    
+    <item>
+      <title>Hello &lt;World /&gt;</title>
+      <link>https://www.usereactpatterns.com/blog/hello-world/</link>
+      <pubDate>Mon, 11 May 2020 16:50:40 -0400</pubDate>
+      
+      <guid>https://www.usereactpatterns.com/blog/hello-world/</guid>
+      <description>Somewhere in the middle of the markdown document:
+This is a normal footnote, which directs to the bottom of the document. 1 This is a dual footnote, which also reuses the url from the footnote for a hyperlink 2</description>
+    </item>
+    
+    <item>
+      <title>Subscribe</title>
+      <link>https://www.usereactpatterns.com/newsletter/</link>
+      <pubDate>Mon, 11 May 2020 18:32:27 -0400</pubDate>
+      
+      <guid>https://www.usereactpatterns.com/newsletter/</guid>
+      <description> You can subscribe to this blog using RSS or by signing up for our newsletter below: </description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://www.usereactpatterns.com/license/</link>
+      <pubDate>Mon, 11 May 2020 17:31:28 -0400</pubDate>
+      
+      <guid>https://www.usereactpatterns.com/license/</guid>
+      <description>This entire website by useReactPatterns is licensed under CC BY-SA 4.0</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.usereactpatterns.com/about/</link>
+      <pubDate>Mon, 11 May 2020 17:16:37 -0400</pubDate>
+      
+      <guid>https://www.usereactpatterns.com/about/</guid>
+      <description>Icons made by Becrisfrom www.</description>
+    </item>
+    
+  </channel>
+</rss>
